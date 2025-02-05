@@ -22,6 +22,7 @@ export default defineConfig({
         },
         outDir: "out",
         sourcemap: true,
+        emptyOutDir: false
     },
 });
 
